@@ -1,0 +1,43 @@
+{
+  "skills": [
+    "HTML",
+    "CSS",
+    "Java",
+    "JavaScript",
+    "Jsp",
+    "Bootstrap",
+    "Node.js",
+    "SQL",
+    "Oracle Sql",
+    "Tomcat",
+    "Video Editing"
+  ],
+  "projects": [
+   {
+      "title": "Attendent System",
+      "description": "A web-based attendance management system using HTML, Java,  JSP, oracle , sql and tomcat that allows users to mark, track, and manage attendance efficiently.",
+      "link": "https://github.com/Kamrunnaharsuchi/Attendence-system"
+    },
+    {
+      "title": "Event listing mannagement system",
+      "description": "A dynamic landing and event details page built with HTML, CSS, and JavaScript. Event data is managed via JSON with a Node.js backend, featuring an intuitive admin panel for easy event management.",
+      "link": "https://github.com/Kamrunnaharsuchi/Event_listing_mannagementsystem"
+    },
+    {
+      "title": "Hospital Management System",
+      "description": "Hospital Management System (HMS) is a Java Swing and Oracle SQL desktop app that automates patient management, appointments, and billing with a user-friendly interface.",
+      "link": "https://github.com/Kamrunnaharsuchi/Hospital_Management_System"
+    },
+    {
+      "title": "Cofee_Website",
+      "description": "At Coffee House in Kamal-Ataturk Avenue, Banani, Dhaka, We pride ourselves on being a go-to destination for Coffee lovers and conversation seekers alike. We're dedicated to provide an exceptional Coffee experience in a cozy and invite atmosphere, where guests can relax, unwind and enjoy their time in comfort.",
+      "link": "https://github.com/Kamrunnaharsuchi/Cofee_Website_Project"
+    },
+    {
+      "title": "Blood Donation Mannagement",
+      "description": "Blood Donation Management is a web-based application that enables easy registration, search, and management of blood donors. It helps hospitals and blood banks maintain a centralized donor database, quickly find suitable donors in emergencies, and ensures security with user login and data stored in local storage.",
+      "link": "https://github.com/Kamrunnaharsuchi/Blood-Donation-Mannagement"
+    }
+    
+  ]
+}
